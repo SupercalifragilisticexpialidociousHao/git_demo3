@@ -2,6 +2,7 @@ git init
 
 #dev init
 
+#bug fix
 
 #michael init
 michael second commit
